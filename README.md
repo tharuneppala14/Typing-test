@@ -1,0 +1,2 @@
+# Typing-test
+Python
